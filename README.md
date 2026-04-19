@@ -1,4 +1,5 @@
 # MT5 Portfolio EA Version B
+## Warning! Disclaimer: This EA is using successful algorithms for each symbol but it seems to run slower and has not been tested, it is not confirmed as successful not even on historical data. Use at your own risk, after testing!
 
 Version B is a **multi-model portfolio EA** with:
 
